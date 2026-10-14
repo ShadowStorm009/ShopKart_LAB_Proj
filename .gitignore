@@ -20,6 +20,11 @@ backend/.env
 razorpay_test_api_keys*.csv
 *.csv
 
+# Lab Problem Statements, Notes & Handoffs
+VIVA_NOTES.md
+Lab-*.md
+AGENT_HANDOFF.md
+
 # Logs
 logs
 *.log
